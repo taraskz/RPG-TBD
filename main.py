@@ -9,4 +9,13 @@
     around a castle in order to eventually kill the evil king and save everyone
     from his control
     '''
+def intro():
+    print("You wake up in a strange place, a strange looking woman shouts:\n")
+    print("You've finally woken up hero - she said\n")
+    print("What is going on - you reply\n")
+    print("The details are not important you need to listen to what I have to say")
+    print("You are the only one who can save this kingdom from the raign of the evil king")
+    print("")
+
+intro()
 
